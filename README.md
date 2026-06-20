@@ -12,7 +12,7 @@ This project leverages machine learning to predict whether a loan applicant will
 
 Home Credit is an international financial institution that provides loans to people without traditional banking histories. Since conventional credit scoring methods don't cover this population, alternative data (application information, repayment records, etc.) is needed to build accurate risk prediction models.
 
-**Competition Target**: Bronze Medal
+**Competition Output**: Bronze Medal of the competition
 
 ---
 
